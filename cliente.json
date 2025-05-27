@@ -1,0 +1,17 @@
+[
+    {
+        "ticket": [],
+        "nr_empleado": 39994,
+        "turno": "MAÑANA",
+        "user": "luquitas123"
+    },
+    {
+        "ticket": [],
+        "direccion": "rivadavia",
+        "sexo": 77,
+        "metodo de pago": "Efectivo",
+        "nombre": "Juan",
+        "dni": 3223,
+        "email": "lucas@gmail"
+    }
+]
